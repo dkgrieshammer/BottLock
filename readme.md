@@ -8,7 +8,7 @@ This is the first attempt to connect our office's door lock to the Internets. Th
 
 ## Testing
 Content of *webstuff* goes to your server; 
-JsonWebserver.ino goes onto your Uno.
+JsonWebserver.ino goes onto your Uno. Of corse the $.ajax requests ip number needs to be adjusted to your network;
 
 ## NOTES
 - Uno or Mega is needed since the ram of 168 is to small;
